@@ -1,5 +1,7 @@
 #  Quizzler
 
+### Bu preje Swift4 programlama dii ile yazılmış bir iOS mobile uygulamasısır.
+
 
 ![aerdogan](Documentation/xr.png) ![aerdogan](Documentation/xr2.png)
 
