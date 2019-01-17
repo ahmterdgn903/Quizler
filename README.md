@@ -1,6 +1,6 @@
 #  Quizzler
 
-### Bu proje Swift4 programlama dili ile yazılmış bir iOS mobile uygulamasısır.
+### Bu proje Swift4 programlama dili ile yazılmış bir iOS mobile uygulamasıdır.
 
 
 ![aerdogan](Documentation/xr.png) ![aerdogan](Documentation/xr2.png)
